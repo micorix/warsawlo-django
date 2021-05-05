@@ -5,4 +5,5 @@
 # Unless a later match takes precedence, @WarsawLO/backend team
 # will be requested for review when someone opens a pull request.
 
-*       @WarsawLO/backend
+*                     @WarsawLO/backend
+/.github/workflows/   @WarsawLO/devops
